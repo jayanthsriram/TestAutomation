@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17462" started-at="2020-12-11T15:02:06Z" finished-at="2020-12-11T15:02:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17462" started-at="2020-12-11T15:02:06Z" finished-at="2020-12-11T15:02:24Z">
+      <class name="com.jayanth.testcases.Test1">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="init" is-config="true" duration-ms="10280" started-at="2020-12-11T20:32:06Z" finished-at="2020-12-11T20:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="test1" duration-ms="884" started-at="2020-12-11T20:32:16Z" finished-at="2020-12-11T20:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="teardown" is-config="true" duration-ms="269" started-at="2020-12-11T20:32:17Z" finished-at="2020-12-11T20:32:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="init" is-config="true" duration-ms="5869" started-at="2020-12-11T20:32:18Z" finished-at="2020-12-11T20:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="test1Verifytitle()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="test1Verifytitle" duration-ms="16" started-at="2020-12-11T20:32:23Z" finished-at="2020-12-11T20:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1Verifytitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.jayanth.testcases.Test1@5e025e70]" name="teardown" is-config="true" duration-ms="124" started-at="2020-12-11T20:32:23Z" finished-at="2020-12-11T20:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.jayanth.testcases.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
